@@ -9,7 +9,7 @@ package java_projects.HW2;
 // 6. Замените символ “=” на слово “равно”. Используйте методы StringBuilder.replace().
 // 7. Сравнить время выполнения пунка 6 со строкой содержащей 10000 символов "=" средствами String и StringBuilder.
 
-public class Main {
+public class HW2 {
     static StringBuilder tmp = new StringBuilder();
 
     public static void main(String[] args) {
